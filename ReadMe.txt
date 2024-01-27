@@ -1,11 +1,5 @@
 DataTableForPHP は、
 PHP で DBから取得したデータを .NET Framework の DataTable っぽく扱うためのライブラリです。
-
-ﾟ(∀) ﾟ ｴｯ? PHP で .NET Framework 使える？
-PHP: DOTNET
-http://php.net/manual/ja/class.dotnet.php
-(;´A｀)ﾑｼﾑｼｽﾙｰ
-
 使い方は、sample.php をご覧ください。
 
 doxygen で作成したドキュメントが ./html/index.html にあります。
